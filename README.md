@@ -7,7 +7,7 @@ Finerz — Telegram бот-игры в стиле "казино", **без ре�
 ```bash
 npm i
 npm run build
-BOT_TOKEN="твой_токен" ADMIN_IDS="твой_id" npm start
+BOT_TOKEN="8497819328:AAGbo98P1MKZEVkeSXI-TM8zLcsij1GGXik" ADMIN_IDS="6376713229" npm start
 ```
 
 ## Переменные окружения
